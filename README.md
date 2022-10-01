@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Upbeat
 
 Develop an elegant React.js Music Application. 
 
